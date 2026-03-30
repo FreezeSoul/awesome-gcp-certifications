@@ -12,6 +12,11 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2026/02 | [Mastering Google Cloud DevOps: Insights and Tips for the Professional Cloud DevOps Engineer Exam](https://medium.com/@bigface00/mastering-google-cloud-devops-insights-and-tips-for-the-professional-cloud-devops-engineer-exam-738825127d73) | Yusuke Enami |
+| 2026/01 | [GCP Professional Cloud DevOps Engineer Practice Test with Answers](https://medium.com/@karani_ph/gcp-professional-cloud-devops-engineer-practice-test-with-answers-a9dacda05022) | Karaniph |
+| 2025/12 | [20 Practice Questions for Google Cloud Professional DevOps Engineer Certification](https://medium.com/@karani_ph/20-practice-questions-for-google-cloud-professional-devops-engineer-certification-cc5789b30446) | Karaniph |
+| 2025/06 | [Google Cloud Professional Cloud DevOps Engineer Exam Guide: 2025 Edition](https://medium.com/google-cloud/google-cloud-professional-cloud-devops-engineer-exam-guide-2025-edition-17e70b8561b9) | Jamie Thompson |
+| 2025/03 | [Certification — Professional GCP DevOps Engineer Exam Step-By-Step Preparations Guide.](https://medium.com/google-cloud/professional-cloud-devops-engineer-exam-preparations-step-by-step-guide-7441ee6327bd) | Biswanath Giri |
 | 2022/08 | [Preparing for the Google Cloud Professional Cloud DevOps Engineer Exam](https://medium.com/google-cloud/preparing-for-the-google-cloud-professional-cloud-devops-engineer-exam-30e9d5fe07e4) | Ammett Williams |
 | 2020/02 | [Exam Deep Dive notes. Preparing for the exam (Part 1 of 2)](https://myblockchainexperts.org/2020/02/19/gcp-professional-devops-engineer-exam-deep-dive-notes-preparing-for-the-exam-part-1-of-2/) | Joe Holbrook |
 | 2020/02 | [Professional Cloud DevOps Engineer Certificate tips](https://gcpfellow.com/2020/02/02/professional-cloud-devops-engineer-certificate-tips/) | Konrad Klapa |

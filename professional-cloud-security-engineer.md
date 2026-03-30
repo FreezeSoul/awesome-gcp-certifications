@@ -12,6 +12,15 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2026/01 | [My Journey to Conquering the Google Cloud Professional Cloud Security Engineer Exam](https://medium.com/@bigface00/my-journey-to-conquering-the-google-cloud-professional-cloud-security-engineer-exam-7e799197c970) | Yusuke Enami |
+| 2025/12 | [Prepare for the Google Professional Cloud Security Engineer Exam 2025](https://medium.com/google-cloud/prepare-for-the-google-professional-cloud-security-engineer-exam-2025-42ec3743f97a) | Ammett W |
+| 2025/10 | [How I Passed the Google Cloud Professional Cloud Security Engineer Exam](https://kishoreramk.medium.com/how-i-passed-the-google-cloud-professional-cloud-security-engineer-exam-4ee9938ebd2d) | Kishore Ram |
+| 2025/08 | [Preparing for Google’s Professional Cloud Security Engineer Certification](https://lunajacob.medium.com/preparing-for-googles-professional-cloud-security-engineer-certification-ba6db6fc437d) | Jacob Luna |
+| 2025/06 | [My Experience with the Google Cloud Security Engineer Professional Certification](https://pakcyberbot.medium.com/my-experience-with-the-free-google-cloud-security-engineer-professional-certification-5b3d795dcd01) | PakCyberBot |
+| 2025/05 | [How to Prepare for Professional Cloud Security Engineer Certification](https://medium.com/google-cloud/how-to-prepare-for-professional-cloud-security-engineer-certification-f86861e3ae96) | Vishal Bulbule |
+| 2025/04 | [How do I prepare my Professional Cloud Security Engineer certification with Gemini (formerly Bard)](https://yurynino.medium.com/how-do-i-preparing-my-professional-cloud-security-engineer-certification-with-bard-e6f02d9d273a) | Yury Nino |
+| 2025/03 | [What it takes to be a certified GCP Professional Network Engineer](https://brk0018.medium.com/what-it-takes-to-be-a-certified-gcp-professional-network-engineer-4c188ccc318d) | Brk0018 |
+| 2023/05 | [2023 Google Cloud Professional Security Engineer Study Guide](https://hilliao.medium.com/2023-google-cloud-professional-security-engineer-study-guide-7ed5489a8ee0) | Hil Liao |
 | 2022/07 | [Preparing for the PCSE Exam](https://medium.com/google-cloud/preparing-for-the-google-cloud-professional-cloud-security-engineer-exam-56bc34d02c45) | Ammett Williams | 
 | 2021/10 | [My review on the PCSE Beta Exam](https://www.linkedin.com/pulse/my-review-professional-cloud-security-engineer-beta-exam-tzavelas/?trackingId=wfzSPQTlEQXGgzkRE6XWXA%3D%3D) | Antoni Tzavelas | 
 | 2020/02 | [BeyondProd: A new approach to cloud-native security](https://cloud.google.com/security/beyondprod/) | Google |

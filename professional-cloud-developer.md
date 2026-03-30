@@ -12,6 +12,12 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2026/01 | [Google Cloud Professional Cloud Developer: My Exam Experience](https://medium.com/@askrichardrose/google-cloud-professional-cloud-developer-a5268044ba4d) | Rich Rose |
+| 2025/11 | [Journey of a Professional Google Cloud Developer: Certification Insights](https://medium.com/@bigface00/journey-of-a-professional-google-cloud-developer-eb70e33c1f78) | Yusuke Enami |
+| 2025/09 | [Reflections on the Google Professional Cloud Developer Exam (2025 Update)](https://lime5005.medium.com/reflections-on-the-google-professional-cloud-developer-exam-de797d45d5e8) | Liping |
+| 2025/05 | [Google Cloud Developer Practice Test: How It Helped Me Pass the Exam](https://medium.com/@ind/google-cloud-developer-practice-test-helped-me-pass-the-exam-0bd0764e80b1) | Manish Salunke |
+| 2025/03 | [Tips for Passing the Google Professional Developer (PCD) Exam](https://medium.com/google-cloud/tips-for-passing-the-google-professional-developer-pcd-exam-c2b6d2253d17) | Darren Lester |
+| 2022/08 | [2022 Google Cloud Professional Cloud Developer Certification Review](https://medium.com/google-cloud/2022-google-cloud-professional-cloud-developer-certification-review-c6a1e27767dc) | Jonanthan Reynolds |
 | 2021/11 | [GCP PCD Study Guide Notes](https://mattlui.com/posts/pcd-notes/) | Matt Lui |
 | 2021/09 | [GCP PCD 2022 — Exam guide mapping](https://rameshrajini.medium.com/google-certified-professional-cloud-developer-2021-exam-guide-mapping-f1223f11505b) | Ramesh Rajini |
 | 2020/03 | [Google PCD Certification preparation strategy](https://medium.com/@jpantjsoha/google-professional-cloud-developer-certification-preparation-strategy-272c8e9bd923) | JPantsjoha |

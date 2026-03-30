@@ -19,6 +19,7 @@
 | 2025/06 | [How to Prepare for the Google Cloud Professional Cloud Database Engineer Exam](https://medium.com/google-cloud/how-to-prepare-for-the-google-cloud-professional-cloud-database-engineer-exam-2a69baa68b09) | David Regalado |
 | 2025/02 | [Passing the Google Cloud Professional Database Engineer Exam](https://hilliao.medium.com/passing-the-google-cloud-professional-database-engineer-exam-95e0b6079ad2) | Hilliao |
 | 2024/12 | [2024 Google Cloud Professional Database Engineer](https://hilliao.medium.com/2024-google-cloud-professional-database-engineer-0e89792e96ce) | Hilliao |
+| 2024/05 | [My Journey to Becoming a GCP Database Engineer](https://brkylmzco.medium.com/my-journey-to-becoming-a-google-professional-cloud-database-engineer-580089e404d8) | Burak Yilmaz |
 | 2023/10 | [Preparing for Success with Google Cloud Professional Cloud Database Engineer Exam 2023](https://medium.com/google-cloud/preparing-for-success-with-google-cloud-professional-cloud-database-engineer-exam-2023-3ad33fa3eea9) | Cloud Expert |
 | 2022/09 | [GCP PDBE Prep Notes](https://drive.google.com/file/d/1NhJh2RUs2IAFdoWLjt4R6qhMYDjfSZTM/view) | Ammett Williams |
 | 2022/06 | [Get Certified: Google Cloud – PCDbE](https://blogs.sap.com/2022/09/16/get-certified-google-cloud-professional-cloud-database-engineer/) | Denys van Kempen |
