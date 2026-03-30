@@ -18,6 +18,7 @@
 | 2025/09 | [The Path to Proficiency: My Google Cloud Professional Machine Learning Engineer Certification](https://medium.com/@bigface00/the-path-to-proficiency-my-google-cloud-professional-machine-learning-engineer-certification-5c531803154b) | Yusuke Enami|
 | 2025/07 | [Google Cloud Professional Machine Learning Engineer Exam](https://astromaier.medium.com/google-cloud-professional-machine-learning-engineer-exam-14fadf0f22f) | Andreas Maier |
 | 2025/05 | [Google Cloud Professional Machine Learning Engineer Certification: Tips to Clear the Exam](https://medium.datadriveninvestor.com/google-cloud-professional-machine-learning-engineer-certification-tips-to-clear-the-exam-71e98ee306ba) | Mo Daoud |
+|  2025/03 | [Guide to passing GCP PMLE(2024)](https://medium.com/@masamuneprog/guide-to-passing-gcp-pmle-exam-2024-e927b1ec220f) | Goh Zhen Rong |
 | 2025/03 | [Navigating the Google Cloud Professional Machine Learning Engineer (PMLE) Certification: What to Expect](https://medium.com/@sangitamahala/navigating-the-google-cloud-professional-machine-learning-engineer-pmle-certification-what-to-2961cc395151) | Sangita Mahala |
 | 2025/02 | [Passing the Google Cloud Professional Machine Learning Engineer Exam](https://hilliao.medium.com/passing-the-google-cloud-professional-machine-learning-engineer-exam-ee5109ad77f4) | Hilliao |
 | 2024/05 | [Pass Google Cloud Machine Learning Exam, with This How-To Human Learning Guide](https://itnext.io/google-cloud-machine-learning-exam-prep-broken-down-by-learning-effort-levels-21f96088a274) | Jaroslav Pantsjoha |
